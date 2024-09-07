@@ -1,0 +1,6 @@
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezBE\bin\Debug\AjedrezBE.dll
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezBE\bin\Debug\AjedrezBE.pdb
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezBE\obj\Debug\AjedrezBE.csproj.AssemblyReference.cache
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezBE\obj\Debug\AjedrezBE.csproj.CoreCompileInputs.cache
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezBE\obj\Debug\AjedrezBE.dll
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezBE\obj\Debug\AjedrezBE.pdb

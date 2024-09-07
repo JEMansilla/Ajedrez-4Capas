@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AjedrezBE.PIEZA">
+    <Position X="15.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAY=</HashCode>
+      <FileName>PIEZA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.JUEGO">
+    <Position X="13.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAABAAIAAA=</HashCode>
+      <FileName>JUEGO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.TABLERO">
+    <Position X="16" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TABLERO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.POSICION">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAwAAAAAAAAAAAAIAAAABgAAAAYiA=</HashCode>
+      <FileName>POSICION.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.JUGADOR">
+    <Position X="17.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACQAAAAEAAAACAAAAQgQABEAEAAQAAAAAAAAQAAgA=</HashCode>
+      <FileName>JUGADOR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.MOVIMIENTO">
+    <Position X="5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAAQ=</HashCode>
+      <FileName>MOVIMIENTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.REY">
+    <Position X="12" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>REY.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.CABALLO">
+    <Position X="14" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>CABALLO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.REINA">
+    <Position X="16" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>REINA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.ALFIL">
+    <Position X="18" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ALFIL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.TORRE">
+    <Position X="20" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>TORRE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.PEON">
+    <Position X="22" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAQ=</HashCode>
+      <FileName>PEON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.DIRECCION">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAAQAAZACAAAgAAEAgAAAAAAAAAAAAIAQ=</HashCode>
+      <FileName>DIRECCION.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.MOVIMIENTO_NORMAL">
+    <Position X="3" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MOVIMIENTO_NORMAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBE.RESULTADO">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>RESULTADO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AjedrezBE.TipoPieza">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAgAAIAAQAAAAAAAAAAAAAEAAAAAAAAABAA=</HashCode>
+      <FileName>TipoPieza.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AjedrezBE.TipoFinalPartida">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAABAAAAEAAAQAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoFinalPartida.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

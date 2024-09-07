@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AjedrezBLL.JUEGO">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAIAAACAAAAAAAAAAgAAAAAAAAAAEAQAAAAIAAAA=</HashCode>
+      <FileName>JUEGO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AjedrezBLL.TABLERO">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAACCACAIAACQAAAAAogCBKABAAAAAAABAAAQ=</HashCode>
+      <FileName>TABLERO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AjedrezBLL.POSICION">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>POSICION.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AjedrezBLL.JUGADOR">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>JUGADOR.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AjedrezBLL.MOVIMIENTO">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAABAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MOVIMIENTO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AjedrezBLL.REY">
+    <Position X="3.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAIAAAAIAAAAAAAACAgAAAAIAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>REY.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBLL.CABALLO">
+    <Position X="5.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CABALLO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBLL.REINA">
+    <Position X="7.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>REINA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBLL.ALFIL">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ALFIL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBLL.TORRE">
+    <Position X="11.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TORRE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBLL.PEON">
+    <Position X="13.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAIAAAAABAAAAAIAAAgAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>PEON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBLL.PIEZA">
+    <Position X="8.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PIEZA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AjedrezBLL.MOVIMIENTO_NORMAL">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MOVIMIENTO_NORMAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AjedrezBLL.RESULTADO">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RESULTADO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,9 @@
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezDAL\bin\Debug\AjedrezDAL.dll
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezDAL\bin\Debug\AjedrezDAL.pdb
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezDAL\bin\Debug\AjedrezBE.dll
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezDAL\bin\Debug\AjedrezBE.pdb
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezDAL\obj\Debug\AjedrezDAL.csproj.AssemblyReference.cache
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezDAL\obj\Debug\AjedrezDAL.csproj.CoreCompileInputs.cache
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezDAL\obj\Debug\AjedrezDAL.csproj.CopyComplete
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezDAL\obj\Debug\AjedrezDAL.dll
+C:\Users\Misil\Desktop\Ajedrez\Ajedrez\AjedrezDAL\obj\Debug\AjedrezDAL.pdb
